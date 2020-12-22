@@ -58,6 +58,10 @@ const help = (prefix) => {
 ┃Follow Ig : @sadboy_ig
 ┃Owner     : Muhammad Akbar
 ┃Follow Ig : @barxnl
+┃
+┃And Thanks To🔥
+┃MhankBarBar
+┃FdciAbdul
 ┣━━━━━━━━━━━━━━━━━━━━
 ┃ 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
 ┗━━━━━━━━━━━━━━━━━━━━`
