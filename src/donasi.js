@@ -1,5 +1,5 @@
 const donasi = () => {
-	return `👾𝗔𝗥𝟭𝟱𝗕𝗢𝗧👾	
+	return `	
 
   Hi👋️
   
@@ -14,19 +14,19 @@ const donasi = () => {
 ┣━━━°❀ ❬ 𝗗𝗢𝗡𝗔𝗦𝗜 ❭ ❀°━━━⊱
 ┃
 ┣➥ *GOPAY:* 0857-2255-3839
-┣➥ *PULSA:* 0857-2255-3839
-┣➥ *OVO:* 0857-2255-3839
-┃
+┣➥ *PULSA:* 0821-9857-1732
+┣➥ *Saweria*:
+┃   https://bit.ly/37tClAQ
 ┣━━━━━━━━━━━━━━━━━━━━
-┃
-┃╔══╗╔═╗╔══╗╔══╗
-┃║╔╗║║╬║╚║║╝║══╣
-┃║╠╣║║╗╣╔║║╗╠══║
-┃╚╝╚╝╚╩╝╚══╝╚══╝
-┃───────────────
-┃
+┃Thanks To : Aris187 ID
+┃Follow Ig : @sadboy_ig
+┃Owner Bot : Muhammad Akbar
+┃Follow Ig : @barxnl
+┃ 
+┃Sc ini dari Aris187 ID.
+┃Jika ingin donasi Silahkan!
 ┣━━━━━━━━━━━━━━━━━━━━
-┃ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗔𝗥𝗜𝗦𝟭𝟴𝟳 𝗜𝗗
+┃ 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
 
